@@ -1,0 +1,29 @@
+{
+  "name": "barrels",
+  "version": "0.0.1",
+  "description": "TypeScript definitions for the Barrels testing library.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianGeppert/barrels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BrianGeppert/barrels/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "keywords": [
+    "TypeScript",
+    "Barrels",
+    "testing"
+  ],
+  "author": "Brian Geppert <briangeppert@briangeppert.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BrianGeppert/barrels/issues"
+  },
+  "homepage": "https://github.com/BrianGeppert/barrels"
+}
