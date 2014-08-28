@@ -6,7 +6,7 @@ interface Barrels {
 	load(): Barrels;
 	populate(callback: (err) => void);
 	objects: {
-		files: Array<Object>
+		files: Array<any>
 	};
 }
 
